@@ -27,12 +27,4 @@ public final class Main extends PluginBase {
         laggedPlayers.clear();
         processingPlayers.clear();
     }
-
-    public Map<UUID, Integer> getLaggedPlayers() {
-        return laggedPlayers;
-    }
-
-    public Set<UUID> getProcessingPlayers() {
-        return processingPlayers;
-    }
 }
