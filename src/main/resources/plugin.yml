@@ -1,0 +1,5 @@
+name: HealCommand
+main: ru.mika050916.healcommand.Main
+version: "${version}"
+api: ["1.0.0"]
+author: Mika050916
